@@ -1,0 +1,7 @@
+These textures are based on ideas from the Vanilla Tweaks team.
+
+Original Faithful 32x32 textures (Live Link):
+https://github.com/ClassicFaithful/32x-Programmer-Art/blob/main/credits.txt
+
+Vanilla Tweaks:
+https://vanillatweaks.net/
